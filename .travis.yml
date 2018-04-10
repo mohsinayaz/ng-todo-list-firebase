@@ -20,7 +20,7 @@ before_script:
 script:
   - ng test --watch false -cc
   - npm run e2e
-  - ng build -bh "https://mohxnz.github.io/ng-todo-list-firebase/"
+  - ng build -bh "https://mohsinayaz.github.io/ng-todo-list-firebase/"
 
 deploy:
   provider: pages
