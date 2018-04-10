@@ -6,7 +6,7 @@ dist: trusty
 
 branches:
   only:
-  - travis-ci
+  - master
 
 before_script:
  - export CHROME_BIN=/usr/bin/google-chrome
