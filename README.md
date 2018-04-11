@@ -1,4 +1,11 @@
+# TodoListFirebase
+
 [![Build Status](https://travis-ci.org/mohxn/ng-todo-list-firebase.svg?branch=master)](https://travis-ci.org/mohxn/ng-todo-list-firebase)
+
+## DEMO
+
+The demo is live [HERE](https://mohsinayaz.github.io/ng-todo-list-firebase/)
+
 
 # Todolistapp
 
